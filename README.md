@@ -23,5 +23,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=flobike-ecommerce)](https://github.com/eltoni/flobike-ecommerce)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=diario)](https://github.com/Eltoni/diario))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=MeuCorresAPI)](https://github.com/Eltoni/MeuCorresAPI))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=MeuCorresAPI)](https://github.com/Eltoni/MeuCorresAPI))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=CORRES-API-FRONT)](https://github.com/Eltoni/CORRES-API-FRONT))
+
 
 
