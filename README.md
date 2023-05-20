@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eltoni&show_icons=true&locale=en" alt="eltoni" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=flobike-ecommerce)](https://github.com/eltoni/flobike-ecommerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=flobike-ecommerce)](https://github.com/eltoni/flobike-ecommerce)
 
 
 
