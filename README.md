@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eltoni&show_icons=true&locale=en" alt="eltoni" /></p>
 
 <h3 align="left">Main Repositories </h3>
-----------------------------------------
+---------------------------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=flobike-ecommerce)](https://github.com/eltoni/flobike-ecommerce)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=diario)](https://github.com/Eltoni/diario)
@@ -34,7 +34,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=ProjetoAulaFrontEnd)](https://github.com/Eltoni/ProjetoAulaFrontEnd)
 
 <h3 align="left">Top Languages  </h3>
-----------------------------------------
+---------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltoni&langs_count=8)](https://github.com/eltoni/github-readme-stats)
 
