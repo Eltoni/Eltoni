@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eltoni Guimarães</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eltoni" alt="eltoni" /></a> </p>
-
 - 🔭 I’m currently working on **Information Technology Manager at the Department of Health of Porto Alegre do Piauí/PI- Brazil**
 
 - 🌱 I’m currently learning **Framework Angular, TypeScript and .Net**
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eltoni-alves-guimar%c3%a3es-02b0b6138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eltoni-alves-guimar%c3%a3es-02b0b6138/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eltoni-alves-guimar%c3%a3es-02b0b6138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eltoni-alves-guimar%c3%a3es-02b0b6138/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
