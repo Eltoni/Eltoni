@@ -27,9 +27,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=MeuCorresAPI)](https://github.com/Eltoni/MeuCorresAPI)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=MeuCorresAPI)](https://github.com/Eltoni/MeuCorresAPI)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=CORRES-API-FRONT)](https://github.com/Eltoni/CORRES-API-FRONT)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=MeuProjetoAngular)](https://github.com/Eltoni/MeuProjetoAngular)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=ProjetoAulaFrontEnd)](https://github.com/Eltoni/ProjetoAulaFrontEnd)
 
