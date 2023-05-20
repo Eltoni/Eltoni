@@ -21,8 +21,15 @@
 
 <h3 align="left">Main Repositories </h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=flobike-ecommerce)](https://github.com/eltoni/flobike-ecommerce)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=diario)](https://github.com/Eltoni/diario)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=MeuCorresAPI)](https://github.com/Eltoni/MeuCorresAPI)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=CORRES-API-FRONT)](https://github.com/Eltoni/CORRES-API-FRONT)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=MeuProjetoAngular)](https://github.com/Eltoni/MeuProjetoAngular)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=ProjetoAulaFrontEnd)](https://github.com/Eltoni/ProjetoAulaFrontEnd)
 
@@ -32,27 +39,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltoni&langs_count=8)](https://github.com/eltoni/github-readme-stats)
 
 ---------------------------
-
-<a href="https://github.com/eltoni/flobike-ecommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=flobike-ecommerce" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=diario" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=MeuCorresAPI" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=CORRES-API-FRONT" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=MeuProjetoAngular" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eltoni&repo=ProjetoAulaFrontEnd" />
-</a>
 
