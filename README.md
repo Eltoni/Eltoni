@@ -35,6 +35,6 @@
 
 <h3 align="left">Top Languages  </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltoni&hide_progress=true)](https://github.com/eltoni/github-readme-stats)
 
 
